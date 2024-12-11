@@ -48,6 +48,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
 
     implementation(libs.binding)
+    //упрощает работу со списками и ViewHolder-ами
     implementation(libs.easyadapter)
 
     testImplementation(libs.junit)
